@@ -1,4 +1,4 @@
-[Image for GMIT Crest](https://github.com/richellaod/Images-for-Project-2018/blob/master/gmit.jpg)
+[Image for GMIT Crest](https://github.com/richellaod/machine_learning-statistics-project/blob/master/gmit.jpg)
 
 
 # Machine Learning & Statistics Project 2019
